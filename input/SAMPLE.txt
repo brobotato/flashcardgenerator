@@ -1,0 +1,4 @@
+# separate words by new lines.
+# lines with hashes are ignored.
+# add a space or newline after the last word in the list.
+python
